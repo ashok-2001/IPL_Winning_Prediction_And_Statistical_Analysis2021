@@ -1,10 +1,6 @@
-This repo contains Project regarding statistical analysis and winner prediction 
+# IPL Winning Prediction And Statistical Analysis 2021
 
-model of the IPL data. Here in this model we have done comprehensive analysis
-
-of IPL data from 2008-2020 and at later stage of the model we have used some 
-
-classifiers to build the winner prediction model.
+This repo contains Project regarding statistical analysis and winner prediction model of the IPL data. Here in this model we have done comprehensive analysis of IPL data from 2008-2020 and at later stage of the model we have used some classifiers to build the winner prediction model.
 
 Classifier used are SVM, KNN, Decision Tree, Random Forest, and Ensemble XGBoost classifier.
 
@@ -14,4 +10,4 @@ operations performed.
 
 
 
-Hope you would find it helpful :smile:
+Hope you would find it helpful.
